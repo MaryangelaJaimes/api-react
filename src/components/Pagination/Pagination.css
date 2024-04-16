@@ -1,0 +1,35 @@
+.pagination {
+  align-items: center;
+}
+
+.pagination .page-link {
+  color: #ebe8e8;
+  background-color: #3c3e44;
+  border: 1px solid #3c3e44;
+  border-radius: 5px;
+  padding: 8px 12px;
+}
+
+.pagination .active .page-link {
+  background-color: #88ff00;
+  border-color: #88ff00;
+  color: #000;
+}
+
+.pagination .page-item {
+  margin: 0 5px;
+  min-width: 2.5rem;
+  text-align: center;
+}
+
+.pagination a,
+.pagination .break {
+  color: #fff;
+  font-size: 14px;
+}
+
+.pagination .page-item:hover a {
+  color: #88ff00;
+  background-color: #333;
+  border-color: #333;
+}

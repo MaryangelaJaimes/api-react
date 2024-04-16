@@ -1,0 +1,9 @@
+.banner {
+  background: #121212;
+  height: 22rem;
+  align-items: flex-end;
+}
+
+.banner-silhouette {
+  height: 250px;
+}

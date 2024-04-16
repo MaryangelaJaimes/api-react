@@ -1,0 +1,13 @@
+.card-content {
+  background: #272727;
+  color: white;
+  padding: 0.25rem 0.25rem 0.5rem;
+}
+
+.card {
+  border-color: #272727 !important;
+}
+
+.personaje .personaje-rick {
+  font-size: 14px;
+}
